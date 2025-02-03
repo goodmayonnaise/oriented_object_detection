@@ -2,7 +2,7 @@
 python tools/test_target_class.py 
     config path
     pth path 
-    --show-dir /mmrotate/work_dirs/prototype3-11/save/prototype3-11_epoch23_val706/test_result
+    --show-dir /mmrotate/work_dirs/vit-psd-clshead/save/prototype3-11_epoch23_val706/test_result
     --target-class all
 '''
 
